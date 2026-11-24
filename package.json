@@ -1,0 +1,15 @@
+{
+  "name": "minimapa",
+  "version": "0.1.0",
+  "description": "Um minimapa redondo no canto da tela: relevo, água, mobs, outros jogadores e bússola. Só no cliente.",
+  "authors": [
+    "MineClaude"
+  ],
+  "private": true,
+  "scripts": {
+    "client": "dist/client/main.js",
+    "_sources": {
+      "client": "src/client.ts"
+    }
+  }
+}
